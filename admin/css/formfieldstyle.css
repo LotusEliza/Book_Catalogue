@@ -1,0 +1,13 @@
+.field_wrapper div {
+    margin-bottom: 10px;
+}
+.remove_input_button {
+    margin-top: 10px;
+    margin-left: 15px;
+    vertical-align: text-bottom;
+}
+.add_input_button {
+    margin-top: 10px;
+    margin-left: 10px;
+    vertical-align: text-bottom;
+}
